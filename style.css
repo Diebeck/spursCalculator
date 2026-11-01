@@ -1,0 +1,23 @@
+@font-face{
+    font-family: "Monocraft";
+    src: url("Monocraft.ttf");
+}
+*{
+    font-family: "Monocraft", sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+body {
+    text-align: center;
+    margin-top: 10%;
+}
+h1 {
+    font-size: 27px;
+}
+input[type="number"] {
+    width: 80px;
+    text-align: center;
+}
+select {
+    padding: 5px;
+}
