@@ -24,7 +24,8 @@ const buy = {
     "Diamond": 20,
     "Petrolium Bucket": 12,
     "Brass Ingot": 2 / (3*9),
-    "Andesite Alloy": 1 / (18*9)
+    "Andesite Alloy": 1 / (18*9),
+    "Chunk Claim": 10
 }
 
 console.log("Sell value:")
